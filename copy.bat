@@ -1,0 +1,3 @@
+xcopy C:\Users\Cooper\Documents\Programming\mods\source\cs2\WeaponShufflePlugin\bin\Debug\net8.0\WeaponShufflePlugin.deps.json C:\Users\Cooper\Documents\servers\valve\cs2\test\game\csgo\addons\counterstrikesharp\plugins\WeaponShufflePlugin /y
+xcopy C:\Users\Cooper\Documents\Programming\mods\source\cs2\WeaponShufflePlugin\bin\Debug\net8.0\WeaponShufflePlugin.dll C:\Users\Cooper\Documents\servers\valve\cs2\test\game\csgo\addons\counterstrikesharp\plugins\WeaponShufflePlugin /y
+xcopy C:\Users\Cooper\Documents\Programming\mods\source\cs2\WeaponShufflePlugin\bin\Debug\net8.0\WeaponShufflePlugin.pdb C:\Users\Cooper\Documents\servers\valve\cs2\test\game\csgo\addons\counterstrikesharp\plugins\WeaponShufflePlugin /y
